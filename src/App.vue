@@ -7,12 +7,12 @@
 
     <section class="h-screen flex justify-center items-center bg-green-500">
       <h2 ref="animateMe" class="text-3xl font-bold text-white opacity-0">
-        GSAP ile Yavaşça Geliyorum
+        GSAP slowly
       </h2>
     </section>
 
     <section class="h-screen flex justify-center items-center bg-purple-500">
-      <h2 class="text-3xl font-bold text-white">ScrollTrigger ile Efektler</h2>
+      <h2 class="text-3xl font-bold text-white">ScrollTrigger Effects</h2>
     </section>
 
   </div>
